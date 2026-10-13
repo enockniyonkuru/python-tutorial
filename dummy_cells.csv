@@ -1,0 +1,601 @@
+cell_id,cell_type,condition,n_genes,total_counts,pct_mito,CD3E
+cell_0,Monocyte,treated,2149,5432,,1
+cell_1,B cell,control,2472,4580,3.79,1
+cell_2,Monocyte,treated,2667,9273,0.59,2
+cell_3,Monocyte,treated,1895,11812,5.22,0
+cell_4,T cell,treated,2934,8966,4.87,9
+cell_5,NK cell,treated,2537,3348,0.44,1
+cell_6,Monocyte,treated,1364,8523,6.75,1
+cell_7,Monocyte,treated,1324,8593,1.73,0
+cell_8,T cell,control,2492,14239,10.1,13
+cell_9,B cell,treated,2367,5357,4.64,2
+cell_10,T cell,treated,2437,8023,2.94,6
+cell_11,NK cell,treated,2483,13264,5.79,3
+cell_12,Monocyte,control,2635,10124,5.53,2
+cell_13,Monocyte,treated,3068,10408,5.38,1
+cell_14,B cell,control,1833,9286,9.19,1
+cell_15,T cell,control,1796,9824,6.06,6
+cell_16,B cell,treated,1844,10944,2.71,2
+cell_17,T cell,treated,2673,6976,3.99,11
+cell_18,Monocyte,treated,3246,11195,12.62,0
+cell_19,Monocyte,control,2241,5567,2.5,1
+cell_20,Monocyte,treated,998,9820,6.67,0
+cell_21,T cell,treated,1477,9446,9.42,3
+cell_22,NK cell,treated,2000,7459,7.14,0
+cell_23,Monocyte,treated,2165,8943,,0
+cell_24,Monocyte,control,2254,7443,5.88,1
+cell_25,T cell,treated,2523,6320,7.47,6
+cell_26,B cell,control,2312,8115,2.48,0
+cell_27,T cell,treated,3129,6240,4.89,8
+cell_28,T cell,control,2094,9806,19.34,11
+cell_29,Monocyte,control,1982,6124,6.82,1
+cell_30,Monocyte,treated,2787,10779,5.39,3
+cell_31,NK cell,treated,1578,6046,3.67,2
+cell_32,T cell,treated,2733,7584,2.5,7
+cell_33,T cell,treated,2561,7438,6.03,10
+cell_34,B cell,treated,2411,12312,6.34,2
+cell_35,T cell,control,3452,9825,4.64,16
+cell_36,T cell,control,2126,8470,24.49,7
+cell_37,B cell,control,3736,10246,2.7,0
+cell_38,T cell,control,2364,3732,2.17,7
+cell_39,Monocyte,control,1733,8892,3.72,3
+cell_40,B cell,treated,2541,13993,4.76,0
+cell_41,Monocyte,treated,1854,9330,2.39,1
+cell_42,Monocyte,treated,2048,9169,5.92,1
+cell_43,T cell,control,2738,10370,6.4,14
+cell_44,Monocyte,treated,2833,11239,8.11,3
+cell_45,Monocyte,treated,2126,4006,3.24,1
+cell_46,T cell,treated,3092,4794,11.92,8
+cell_47,T cell,control,3194,9525,7.73,11
+cell_48,Monocyte,control,3361,7212,2.65,0
+cell_49,T cell,treated,2817,12280,2.38,8
+cell_50,T cell,control,3318,8212,3.93,4
+cell_51,T cell,control,1371,4163,6.41,6
+cell_52,Monocyte,control,2309,5829,7.1,3
+cell_53,Monocyte,treated,1979,2125,7.72,0
+cell_54,Monocyte,treated,2571,8414,18.54,0
+cell_55,Monocyte,control,2157,8529,0.83,2
+cell_56,B cell,control,2400,7938,4.54,2
+cell_57,B cell,treated,3629,11697,17.53,2
+cell_58,T cell,treated,2398,11996,8.37,7
+cell_59,T cell,treated,2748,8574,2.04,7
+cell_60,Monocyte,control,2360,3663,5.7,0
+cell_61,B cell,treated,2545,10543,4.33,1
+cell_62,B cell,control,2503,10388,4.21,1
+cell_63,Monocyte,treated,2768,9773,3.19,1
+cell_64,Monocyte,control,3199,11453,5.36,0
+cell_65,B cell,control,3488,6087,10.46,0
+cell_66,B cell,control,2685,14021,,0
+cell_67,T cell,control,2853,6601,7.76,5
+cell_68,T cell,treated,1809,10873,8.73,7
+cell_69,B cell,control,2447,4781,11.86,1
+cell_70,T cell,control,3064,6674,2.34,9
+cell_71,B cell,control,3019,12790,5.04,1
+cell_72,Monocyte,treated,2626,8347,2.88,1
+cell_73,T cell,treated,3031,11099,5.37,6
+cell_74,T cell,treated,2794,9592,5.34,6
+cell_75,T cell,treated,3220,8737,1.84,6
+cell_76,T cell,treated,2673,12409,5.61,16
+cell_77,Monocyte,treated,2286,8408,19.14,1
+cell_78,B cell,control,2701,4548,7.12,3
+cell_79,Monocyte,treated,741,6991,1.49,4
+cell_80,Monocyte,treated,2729,10377,2.21,1
+cell_81,B cell,treated,310,9988,4.85,1
+cell_82,Monocyte,control,1465,5082,2.26,2
+cell_83,T cell,treated,2771,7189,11.43,6
+cell_84,T cell,control,2786,7545,1.31,8
+cell_85,T cell,control,1802,8086,7.16,6
+cell_86,Monocyte,treated,2072,5560,1.03,0
+cell_87,B cell,control,3322,7429,4.79,0
+cell_88,T cell,control,2209,7178,1.96,15
+cell_89,B cell,treated,3845,10928,8.1,2
+cell_90,T cell,control,2498,11022,10.17,8
+cell_91,Monocyte,treated,2744,8635,6.4,0
+cell_92,B cell,control,3470,8019,10.49,1
+cell_93,T cell,control,2578,9349,0.29,5
+cell_94,T cell,treated,1898,6958,5.55,3
+cell_95,Monocyte,treated,2434,6132,7.09,3
+cell_96,T cell,control,2478,6649,7.75,6
+cell_97,T cell,treated,1681,7412,6.79,9
+cell_98,T cell,treated,2346,6091,7.87,10
+cell_99,NK cell,control,2054,9405,5.51,1
+cell_100,NK cell,treated,3054,10824,1.5,2
+cell_101,Monocyte,control,2520,5032,3.17,2
+cell_102,T cell,treated,2330,9062,11.47,9
+cell_103,NK cell,treated,2436,8450,10.62,1
+cell_104,Monocyte,treated,2633,9853,6.99,1
+cell_105,Monocyte,treated,2870,8967,8.22,1
+cell_106,B cell,control,1900,5366,9.78,1
+cell_107,T cell,control,1875,5844,6.94,8
+cell_108,T cell,control,3162,9073,11.25,3
+cell_109,NK cell,treated,2252,11571,11.0,1
+cell_110,B cell,treated,1649,3464,23.05,1
+cell_111,T cell,control,2766,9864,3.28,9
+cell_112,T cell,treated,2778,11974,3.33,8
+cell_113,B cell,treated,1581,8617,6.57,0
+cell_114,T cell,treated,2637,10375,16.87,14
+cell_115,Monocyte,control,2941,7242,11.85,1
+cell_116,Monocyte,treated,2724,8701,8.93,1
+cell_117,Monocyte,treated,2879,4947,12.4,0
+cell_118,B cell,control,1657,3139,7.18,1
+cell_119,Monocyte,control,2698,11356,3.96,1
+cell_120,B cell,control,2318,6537,19.61,1
+cell_121,Monocyte,control,2210,7861,6.81,1
+cell_122,T cell,treated,3022,5533,10.84,7
+cell_123,B cell,treated,3387,5475,0.28,1
+cell_124,T cell,treated,3576,8565,0.39,3
+cell_125,B cell,control,3288,7176,5.69,1
+cell_126,T cell,treated,2434,9944,2.26,9
+cell_127,T cell,control,2711,10131,6.08,8
+cell_128,T cell,treated,2960,9802,3.33,5
+cell_129,B cell,control,2572,9596,25.2,1
+cell_130,T cell,control,2578,12944,10.27,4
+cell_131,NK cell,treated,2994,6331,13.2,0
+cell_132,B cell,control,2464,8862,0.52,1
+cell_133,T cell,treated,2062,11831,8.85,5
+cell_134,B cell,treated,2251,12161,4.35,0
+cell_135,T cell,treated,2880,5445,13.37,8
+cell_136,NK cell,treated,2501,8219,7.97,0
+cell_137,B cell,control,2704,12395,4.86,1
+cell_138,Monocyte,treated,2902,10270,1.67,0
+cell_139,T cell,control,2275,9488,5.6,8
+cell_140,B cell,treated,2953,8455,11.3,1
+cell_141,B cell,control,2727,8040,13.88,0
+cell_142,NK cell,control,1759,9720,3.76,1
+cell_143,B cell,treated,3365,8369,22.61,1
+cell_144,B cell,control,2199,8893,10.71,0
+cell_145,T cell,treated,1506,9196,2.3,7
+cell_146,T cell,treated,1872,7304,1.83,11
+cell_147,B cell,treated,1887,10330,4.57,1
+cell_148,B cell,treated,2531,16285,3.75,1
+cell_149,T cell,treated,2335,4557,7.22,7
+cell_150,Monocyte,control,2297,9810,5.17,3
+cell_151,Monocyte,control,2871,7099,4.01,2
+cell_152,T cell,control,2703,10443,1.1,10
+cell_153,B cell,treated,2689,9116,8.14,2
+cell_154,T cell,control,2745,10904,1.0,5
+cell_155,Monocyte,control,2869,11938,10.73,2
+cell_156,T cell,control,1235,9481,0.6,9
+cell_157,Monocyte,control,2281,11830,0.93,0
+cell_158,Monocyte,control,1191,3139,2.29,0
+cell_159,Monocyte,control,2521,12976,3.48,2
+cell_160,T cell,control,2497,9937,2.9,11
+cell_161,NK cell,control,3127,11694,3.46,3
+cell_162,T cell,control,3212,5950,6.17,15
+cell_163,T cell,control,2621,6923,2.34,9
+cell_164,B cell,treated,2199,9364,6.21,2
+cell_165,T cell,control,2791,8957,,6
+cell_166,Monocyte,control,2183,9707,2.26,0
+cell_167,Monocyte,control,2499,11711,0.88,1
+cell_168,T cell,treated,3091,4586,10.65,6
+cell_169,NK cell,treated,2165,11434,2.63,1
+cell_170,T cell,treated,2983,9020,7.79,8
+cell_171,B cell,control,2906,8490,0.7,1
+cell_172,T cell,control,1927,5322,13.73,16
+cell_173,NK cell,control,3084,10257,5.4,0
+cell_174,T cell,treated,2919,2964,4.94,4
+cell_175,T cell,treated,2561,10620,1.12,7
+cell_176,B cell,treated,2042,5269,2.0,0
+cell_177,NK cell,treated,1984,9133,4.12,1
+cell_178,Monocyte,treated,2177,8702,2.08,2
+cell_179,Monocyte,treated,2825,11923,9.93,0
+cell_180,Monocyte,treated,1926,8553,5.28,0
+cell_181,Monocyte,control,2762,7264,2.1,1
+cell_182,B cell,control,1754,7733,8.89,1
+cell_183,T cell,treated,2377,12182,3.68,5
+cell_184,Monocyte,control,2565,10340,8.61,2
+cell_185,Monocyte,control,3967,8035,3.2,0
+cell_186,T cell,treated,1673,8408,7.4,7
+cell_187,T cell,control,3383,5082,3.57,5
+cell_188,Monocyte,treated,2589,9971,9.93,1
+cell_189,T cell,treated,2746,4600,0.72,9
+cell_190,NK cell,control,2571,10879,1.54,0
+cell_191,T cell,treated,2766,9321,4.42,6
+cell_192,T cell,treated,2407,14967,2.74,9
+cell_193,Monocyte,treated,3372,6249,3.48,1
+cell_194,T cell,control,2226,8743,8.03,10
+cell_195,T cell,treated,3179,13495,3.42,4
+cell_196,B cell,treated,2113,11978,6.38,1
+cell_197,Monocyte,treated,2463,7259,2.24,1
+cell_198,T cell,control,1856,9559,0.54,4
+cell_199,T cell,control,2773,9004,8.57,11
+cell_200,Monocyte,treated,3367,9704,15.85,0
+cell_201,NK cell,control,2453,7253,,1
+cell_202,B cell,control,2381,8776,4.62,2
+cell_203,T cell,control,1831,5004,5.43,4
+cell_204,T cell,control,2362,9337,12.46,10
+cell_205,T cell,control,1544,10125,5.94,8
+cell_206,T cell,control,1952,8431,8.87,2
+cell_207,Monocyte,treated,2636,4962,8.59,1
+cell_208,T cell,control,3291,11471,10.53,10
+cell_209,B cell,control,4185,9911,4.54,1
+cell_210,Monocyte,control,2148,7184,3.16,3
+cell_211,B cell,treated,3361,8298,7.46,1
+cell_212,T cell,control,2646,5248,10.01,8
+cell_213,Monocyte,treated,2409,6436,11.35,1
+cell_214,Monocyte,treated,2759,7655,13.51,0
+cell_215,Monocyte,treated,2537,12071,9.39,1
+cell_216,T cell,treated,2566,7401,3.01,5
+cell_217,T cell,control,2255,10600,5.88,9
+cell_218,NK cell,treated,1661,7654,5.49,0
+cell_219,T cell,control,1573,9619,5.04,11
+cell_220,T cell,treated,2891,8646,7.47,8
+cell_221,B cell,treated,2333,11182,4.21,1
+cell_222,Monocyte,treated,2142,7662,4.22,0
+cell_223,NK cell,treated,2505,5068,16.5,2
+cell_224,T cell,control,2976,5545,4.73,3
+cell_225,NK cell,treated,2608,7670,10.47,1
+cell_226,T cell,treated,2106,5877,10.9,5
+cell_227,B cell,treated,3235,10025,6.01,0
+cell_228,Monocyte,control,3447,7835,4.35,2
+cell_229,T cell,treated,2796,14936,2.33,6
+cell_230,T cell,control,3084,4655,0.98,8
+cell_231,B cell,control,3245,9509,7.86,3
+cell_232,NK cell,control,3178,6180,,1
+cell_233,B cell,treated,2868,7766,8.71,0
+cell_234,NK cell,control,2859,9353,3.34,1
+cell_235,Monocyte,control,2811,3186,17.62,1
+cell_236,B cell,control,1841,9592,7.2,1
+cell_237,Monocyte,treated,2920,13757,4.59,1
+cell_238,T cell,control,1686,7866,0.49,8
+cell_239,T cell,treated,2023,9649,3.67,13
+cell_240,Monocyte,treated,3282,11562,9.01,0
+cell_241,Monocyte,treated,3004,8590,13.28,1
+cell_242,T cell,treated,3392,7547,5.18,9
+cell_243,B cell,control,2336,3310,14.76,1
+cell_244,Monocyte,control,1808,10602,2.17,1
+cell_245,Monocyte,control,2355,8717,6.9,1
+cell_246,Monocyte,treated,2561,6468,7.05,0
+cell_247,B cell,treated,2547,9316,7.91,1
+cell_248,T cell,treated,3180,7540,5.74,7
+cell_249,B cell,control,2283,7678,6.63,1
+cell_250,Monocyte,control,2711,10515,2.12,0
+cell_251,Monocyte,control,1906,5654,12.42,1
+cell_252,B cell,control,2770,11618,9.76,2
+cell_253,T cell,control,2501,5505,6.43,9
+cell_254,T cell,treated,2050,7343,9.92,5
+cell_255,Monocyte,control,2358,13807,12.69,2
+cell_256,Monocyte,treated,2389,11818,7.83,0
+cell_257,T cell,control,2337,9244,18.89,6
+cell_258,T cell,control,3562,6648,8.3,8
+cell_259,B cell,treated,2440,7676,2.44,0
+cell_260,T cell,treated,2353,9183,6.2,7
+cell_261,Monocyte,control,1241,9093,10.2,1
+cell_262,T cell,control,1963,8772,12.7,6
+cell_263,T cell,control,2342,8922,5.84,14
+cell_264,NK cell,treated,2088,8464,2.27,2
+cell_265,T cell,control,3329,5395,4.28,10
+cell_266,T cell,treated,2401,7708,1.41,9
+cell_267,T cell,control,3273,11286,8.92,9
+cell_268,T cell,treated,2537,5579,3.63,6
+cell_269,T cell,control,2522,8526,2.8,5
+cell_270,T cell,treated,2446,6950,9.54,6
+cell_271,T cell,treated,2502,9278,14.56,8
+cell_272,T cell,control,3531,8028,2.79,9
+cell_273,B cell,control,1108,12693,5.86,1
+cell_274,Monocyte,treated,1299,10266,4.42,0
+cell_275,T cell,control,2174,5720,13.1,4
+cell_276,T cell,control,2508,10678,4.84,5
+cell_277,B cell,control,2914,7063,2.07,3
+cell_278,Monocyte,control,2783,7557,5.02,0
+cell_279,Monocyte,control,2269,9784,11.29,2
+cell_280,T cell,control,3111,7770,4.22,12
+cell_281,T cell,control,3118,11232,3.06,5
+cell_282,T cell,control,2610,7063,4.67,10
+cell_283,T cell,control,3077,7452,2.13,7
+cell_284,B cell,control,2663,7359,4.42,1
+cell_285,B cell,treated,2163,7585,3.26,0
+cell_286,T cell,control,2918,11747,21.17,7
+cell_287,T cell,control,2566,10571,0.66,6
+cell_288,B cell,control,2500,13274,2.43,1
+cell_289,T cell,treated,3383,14669,3.06,10
+cell_290,Monocyte,control,1029,6423,2.15,2
+cell_291,T cell,control,1649,9176,6.95,10
+cell_292,NK cell,control,1787,6059,2.75,1
+cell_293,T cell,control,2282,7055,1.26,5
+cell_294,Monocyte,control,2347,7424,5.47,5
+cell_295,NK cell,control,1595,6357,4.02,1
+cell_296,NK cell,treated,1908,6370,2.87,1
+cell_297,Monocyte,treated,1983,8639,12.88,0
+cell_298,Monocyte,control,3974,5958,7.12,0
+cell_299,Monocyte,treated,3581,11105,6.55,1
+cell_300,Monocyte,treated,2252,6705,7.24,0
+cell_301,T cell,control,2281,16023,6.97,6
+cell_302,B cell,control,1810,7871,4.19,2
+cell_303,B cell,control,1355,9180,2.78,1
+cell_304,Monocyte,treated,2429,5761,5.57,1
+cell_305,B cell,control,1901,13265,4.13,1
+cell_306,T cell,treated,2449,11798,0.65,6
+cell_307,Monocyte,control,1539,9742,1.97,2
+cell_308,T cell,treated,2042,5632,3.71,12
+cell_309,T cell,treated,2589,9526,9.68,3
+cell_310,B cell,control,2719,6196,5.59,0
+cell_311,B cell,control,2750,12655,2.35,2
+cell_312,T cell,treated,1707,11022,1.81,7
+cell_313,T cell,control,3012,9238,11.14,7
+cell_314,T cell,control,2019,2909,4.35,8
+cell_315,T cell,treated,2879,6541,0.09,10
+cell_316,T cell,control,2493,10719,4.57,9
+cell_317,Monocyte,control,1674,12032,8.27,1
+cell_318,T cell,control,2310,11772,1.76,10
+cell_319,NK cell,control,2719,5019,5.27,0
+cell_320,NK cell,treated,2867,9753,5.65,2
+cell_321,B cell,treated,2415,11538,1.86,1
+cell_322,T cell,control,3419,4854,11.84,11
+cell_323,B cell,control,3104,8980,5.73,1
+cell_324,Monocyte,treated,2346,9684,3.7,0
+cell_325,Monocyte,control,2950,8248,4.37,2
+cell_326,Monocyte,control,3660,4369,1.53,0
+cell_327,B cell,control,3676,8185,1.46,1
+cell_328,Monocyte,control,1763,8181,3.41,0
+cell_329,T cell,treated,1944,8629,,9
+cell_330,Monocyte,control,3390,7591,4.14,1
+cell_331,T cell,control,1865,7892,12.56,13
+cell_332,Monocyte,treated,1706,8900,7.95,1
+cell_333,Monocyte,control,2208,10106,0.79,0
+cell_334,T cell,treated,2752,8238,,6
+cell_335,Monocyte,control,2438,7975,3.39,1
+cell_336,T cell,control,2109,9230,8.5,4
+cell_337,Monocyte,control,2095,4197,3.63,2
+cell_338,T cell,treated,2072,10192,5.45,8
+cell_339,NK cell,treated,1972,8998,1.65,0
+cell_340,T cell,control,3868,9099,6.4,4
+cell_341,NK cell,control,2678,11401,9.19,2
+cell_342,Monocyte,control,3032,4117,0.99,1
+cell_343,B cell,treated,2206,4065,9.29,0
+cell_344,Monocyte,control,2388,9684,2.76,1
+cell_345,Monocyte,treated,2071,8982,15.32,1
+cell_346,NK cell,treated,908,9425,8.61,2
+cell_347,T cell,treated,1673,7844,7.58,8
+cell_348,B cell,control,1413,10660,4.39,1
+cell_349,T cell,control,1150,11331,23.72,13
+cell_350,Monocyte,control,1782,10209,3.41,0
+cell_351,T cell,treated,3294,8347,2.02,2
+cell_352,B cell,treated,2473,3730,2.85,1
+cell_353,B cell,treated,3274,10923,10.37,0
+cell_354,B cell,control,2746,12054,5.37,1
+cell_355,B cell,control,2969,10611,4.78,2
+cell_356,Monocyte,treated,1959,6800,3.45,0
+cell_357,Monocyte,treated,2814,10684,4.59,0
+cell_358,B cell,treated,2937,11151,3.26,1
+cell_359,B cell,treated,2154,12897,8.1,1
+cell_360,NK cell,control,2835,6809,4.07,1
+cell_361,T cell,control,2839,8433,2.9,9
+cell_362,T cell,control,2170,10868,9.78,4
+cell_363,T cell,treated,1826,9143,2.08,10
+cell_364,Monocyte,treated,1789,6206,5.43,0
+cell_365,B cell,control,2551,10036,0.65,1
+cell_366,Monocyte,treated,2696,10446,1.34,0
+cell_367,Monocyte,treated,2024,9219,3.72,1
+cell_368,T cell,treated,2515,9548,3.2,9
+cell_369,Monocyte,treated,2842,8353,3.2,1
+cell_370,Monocyte,control,2870,12695,8.67,0
+cell_371,T cell,control,3431,6748,9.03,11
+cell_372,T cell,treated,3266,7531,6.25,8
+cell_373,T cell,treated,1899,9027,1.98,9
+cell_374,T cell,control,3510,11197,4.56,6
+cell_375,T cell,control,2181,5256,16.77,5
+cell_376,NK cell,treated,3126,5724,22.21,0
+cell_377,B cell,treated,2540,3905,9.84,2
+cell_378,T cell,control,2252,9081,2.05,10
+cell_379,Monocyte,treated,1415,6204,4.59,0
+cell_380,B cell,control,2397,8038,5.95,0
+cell_381,NK cell,control,1564,10653,5.3,0
+cell_382,Monocyte,treated,3080,7396,10.56,0
+cell_383,B cell,control,3410,9578,8.4,1
+cell_384,T cell,treated,2021,8251,1.95,9
+cell_385,NK cell,control,2681,10680,2.96,0
+cell_386,Monocyte,treated,2064,10187,9.81,3
+cell_387,NK cell,control,2122,7270,12.84,0
+cell_388,T cell,treated,2964,8578,6.0,2
+cell_389,Monocyte,control,2476,11609,13.92,1
+cell_390,Monocyte,treated,3543,9983,5.5,1
+cell_391,T cell,control,2210,5507,2.28,2
+cell_392,B cell,control,3099,10639,7.87,1
+cell_393,Monocyte,control,2558,6288,28.68,2
+cell_394,T cell,treated,2977,12531,1.54,11
+cell_395,B cell,control,2231,11560,13.57,0
+cell_396,Monocyte,treated,2470,9724,7.56,1
+cell_397,T cell,treated,2430,9393,2.81,3
+cell_398,B cell,treated,1998,8477,0.67,0
+cell_399,B cell,treated,2897,10696,0.37,1
+cell_400,T cell,control,2890,8073,3.19,7
+cell_401,NK cell,treated,2856,9588,6.7,0
+cell_402,Monocyte,treated,3422,11179,9.32,1
+cell_403,T cell,control,3369,7595,10.85,4
+cell_404,NK cell,control,2275,7459,,0
+cell_405,Monocyte,treated,2723,6014,5.57,0
+cell_406,T cell,control,2125,6338,3.82,9
+cell_407,Monocyte,treated,2514,4429,6.82,0
+cell_408,T cell,control,2140,10824,2.85,7
+cell_409,NK cell,control,3472,13522,1.62,2
+cell_410,Monocyte,treated,2718,12563,5.31,0
+cell_411,Monocyte,control,2369,4934,8.83,3
+cell_412,T cell,treated,3216,10812,1.29,8
+cell_413,Monocyte,treated,1197,12555,3.19,0
+cell_414,T cell,control,1291,7857,5.16,17
+cell_415,T cell,control,2977,9253,,12
+cell_416,T cell,treated,2536,3980,7.42,6
+cell_417,Monocyte,treated,2650,9666,16.46,2
+cell_418,T cell,control,1704,6341,0.38,7
+cell_419,NK cell,treated,2486,9499,16.95,0
+cell_420,Monocyte,control,3702,5096,15.97,2
+cell_421,T cell,control,2994,10357,9.43,4
+cell_422,T cell,treated,2601,11561,5.92,8
+cell_423,T cell,control,2236,7042,2.9,9
+cell_424,Monocyte,treated,2263,6157,9.35,0
+cell_425,Monocyte,treated,1222,3609,6.15,0
+cell_426,T cell,treated,2654,8333,3.89,15
+cell_427,Monocyte,treated,3007,7546,9.18,0
+cell_428,T cell,control,1554,5122,10.31,9
+cell_429,Monocyte,control,2103,10132,12.77,2
+cell_430,NK cell,treated,1805,7875,2.62,0
+cell_431,Monocyte,treated,1920,6310,11.67,1
+cell_432,Monocyte,control,2532,7613,3.95,1
+cell_433,Monocyte,treated,1249,11678,5.93,2
+cell_434,T cell,control,2868,10507,6.82,7
+cell_435,T cell,treated,2952,8674,11.03,7
+cell_436,T cell,control,2349,10547,8.53,7
+cell_437,B cell,treated,1011,6097,3.83,0
+cell_438,Monocyte,control,1902,9080,0.46,1
+cell_439,Monocyte,control,3239,9368,7.35,1
+cell_440,Monocyte,treated,833,7825,5.75,0
+cell_441,T cell,control,2291,10088,1.52,6
+cell_442,Monocyte,control,1791,7048,6.27,2
+cell_443,T cell,treated,2982,10274,5.11,13
+cell_444,T cell,control,2094,10379,12.69,11
+cell_445,Monocyte,control,2742,1707,17.72,0
+cell_446,NK cell,control,2839,11975,,2
+cell_447,Monocyte,treated,3601,1380,4.88,2
+cell_448,T cell,treated,2378,7459,5.48,5
+cell_449,Monocyte,treated,2725,11563,2.54,1
+cell_450,T cell,control,1608,8206,2.99,6
+cell_451,Monocyte,control,3214,5334,4.66,1
+cell_452,Monocyte,control,2043,6265,4.28,1
+cell_453,T cell,treated,2163,11567,1.43,5
+cell_454,T cell,control,2486,4196,12.78,10
+cell_455,T cell,control,1562,11822,,6
+cell_456,NK cell,treated,2637,8862,12.5,0
+cell_457,B cell,treated,3080,6019,14.32,1
+cell_458,Monocyte,treated,2675,7542,21.15,2
+cell_459,Monocyte,control,1546,6456,2.58,0
+cell_460,B cell,treated,2425,11165,20.55,1
+cell_461,T cell,treated,2945,10831,3.81,7
+cell_462,NK cell,control,1373,4702,8.16,0
+cell_463,T cell,treated,1855,7991,1.08,8
+cell_464,B cell,treated,3025,6842,3.41,0
+cell_465,Monocyte,control,2662,12233,10.33,2
+cell_466,Monocyte,treated,2747,5624,8.45,2
+cell_467,NK cell,treated,3615,13010,3.75,2
+cell_468,T cell,treated,2781,8916,5.47,2
+cell_469,B cell,treated,2894,6095,3.11,2
+cell_470,B cell,treated,4126,7306,10.31,1
+cell_471,B cell,treated,2371,6995,13.36,0
+cell_472,T cell,control,2021,5813,2.59,7
+cell_473,T cell,treated,2756,9237,5.05,8
+cell_474,T cell,treated,2763,5930,1.37,7
+cell_475,T cell,treated,2183,3549,6.13,5
+cell_476,B cell,control,1880,8050,7.56,3
+cell_477,Monocyte,control,3885,4492,6.51,1
+cell_478,Monocyte,treated,2696,7119,7.13,3
+cell_479,B cell,treated,2060,6727,4.64,0
+cell_480,B cell,treated,3049,6821,4.73,1
+cell_481,T cell,control,2434,14002,4.55,7
+cell_482,B cell,control,2348,9141,3.33,1
+cell_483,T cell,treated,2837,9613,3.69,7
+cell_484,T cell,control,1724,4559,7.31,7
+cell_485,B cell,treated,2711,7365,12.79,2
+cell_486,B cell,control,3647,9538,2.18,0
+cell_487,T cell,control,2779,6438,4.71,6
+cell_488,B cell,treated,2274,11270,1.76,1
+cell_489,B cell,control,2195,5993,3.38,0
+cell_490,Monocyte,treated,2253,8284,3.87,1
+cell_491,Monocyte,treated,2347,7534,5.81,1
+cell_492,Monocyte,treated,2273,9410,5.69,0
+cell_493,T cell,control,3049,7398,5.02,8
+cell_494,Monocyte,control,1460,8322,6.88,1
+cell_495,B cell,treated,3017,8409,2.39,1
+cell_496,B cell,control,2272,7164,5.85,1
+cell_497,Monocyte,control,2726,10212,8.62,2
+cell_498,T cell,control,1823,9595,2.36,8
+cell_499,B cell,treated,3297,8778,0.85,1
+cell_500,Monocyte,control,3247,7923,10.26,0
+cell_501,Monocyte,control,3075,10991,1.82,1
+cell_502,NK cell,treated,1591,8410,3.24,3
+cell_503,B cell,control,2997,8233,8.44,1
+cell_504,B cell,treated,2742,9261,2.25,1
+cell_505,Monocyte,treated,1536,13241,9.77,1
+cell_506,T cell,treated,2485,5649,2.84,8
+cell_507,Monocyte,treated,2718,10924,2.54,0
+cell_508,B cell,control,2833,4267,1.77,0
+cell_509,T cell,control,2606,9543,,11
+cell_510,T cell,control,2674,12937,7.66,8
+cell_511,Monocyte,control,3384,10221,3.24,2
+cell_512,T cell,treated,3235,9426,10.29,7
+cell_513,T cell,treated,779,7598,5.17,9
+cell_514,T cell,treated,2309,9077,5.53,15
+cell_515,T cell,treated,2401,8369,2.47,8
+cell_516,T cell,treated,1448,7035,11.34,5
+cell_517,Monocyte,control,2556,8275,8.67,3
+cell_518,T cell,control,3249,9495,8.5,10
+cell_519,Monocyte,treated,1848,7081,4.43,2
+cell_520,Monocyte,control,2701,6984,1.56,0
+cell_521,T cell,treated,1950,5599,5.75,13
+cell_522,T cell,treated,2096,9976,7.43,14
+cell_523,Monocyte,treated,3386,10363,7.48,2
+cell_524,T cell,treated,2174,9579,6.78,11
+cell_525,T cell,treated,2777,11412,6.57,8
+cell_526,NK cell,treated,1377,9219,2.83,1
+cell_527,NK cell,treated,3617,9980,2.95,0
+cell_528,Monocyte,control,2861,9759,1.79,2
+cell_529,T cell,control,2390,8771,10.37,8
+cell_530,Monocyte,treated,2845,7672,17.19,0
+cell_531,Monocyte,treated,1654,14535,,3
+cell_532,T cell,treated,3209,7870,6.05,7
+cell_533,Monocyte,treated,2305,7335,6.59,0
+cell_534,T cell,treated,2377,10085,4.57,9
+cell_535,T cell,treated,2205,9629,5.98,5
+cell_536,B cell,treated,2151,5488,2.24,1
+cell_537,T cell,control,2916,11806,4.5,6
+cell_538,T cell,control,2653,8764,2.56,7
+cell_539,Monocyte,control,2891,6222,4.05,1
+cell_540,NK cell,control,2494,11971,2.75,2
+cell_541,B cell,treated,2807,10564,7.43,1
+cell_542,Monocyte,control,2248,5838,8.1,0
+cell_543,NK cell,control,3837,13442,6.44,2
+cell_544,T cell,control,1559,10646,2.96,7
+cell_545,B cell,treated,3256,8974,1.67,0
+cell_546,T cell,treated,3320,12975,8.17,7
+cell_547,T cell,control,1988,9398,5.15,8
+cell_548,Monocyte,treated,3837,8929,,0
+cell_549,B cell,treated,3097,7349,5.72,0
+cell_550,B cell,treated,3082,10454,6.62,0
+cell_551,T cell,treated,2516,10191,1.15,9
+cell_552,T cell,treated,2369,9036,7.52,7
+cell_553,NK cell,control,2374,7025,1.35,0
+cell_554,T cell,treated,2734,9324,2.69,6
+cell_555,T cell,control,3340,8825,1.36,9
+cell_556,T cell,control,2608,5666,2.44,7
+cell_557,B cell,treated,1953,5320,1.68,1
+cell_558,B cell,treated,2994,10412,10.32,2
+cell_559,B cell,treated,3052,2495,4.24,1
+cell_560,T cell,control,2892,9513,3.55,8
+cell_561,T cell,control,2947,7804,11.0,9
+cell_562,Monocyte,control,2337,12270,10.61,1
+cell_563,Monocyte,treated,1942,7766,3.79,4
+cell_564,Monocyte,treated,1979,10648,6.35,0
+cell_565,Monocyte,treated,1518,8007,3.16,1
+cell_566,Monocyte,treated,2642,9284,4.77,0
+cell_567,T cell,control,2449,10842,1.99,11
+cell_568,T cell,control,2236,7843,7.03,5
+cell_569,B cell,control,726,11491,11.29,3
+cell_570,T cell,control,1751,6515,9.97,3
+cell_571,Monocyte,control,3172,9736,5.34,3
+cell_572,B cell,control,2101,11306,0.72,1
+cell_573,Monocyte,control,2716,10650,3.04,0
+cell_574,Monocyte,treated,1665,13791,4.76,1
+cell_575,B cell,control,3363,7091,1.47,2
+cell_576,NK cell,control,2413,5552,1.22,0
+cell_577,B cell,control,2674,6514,13.42,0
+cell_578,Monocyte,control,3895,10651,9.18,0
+cell_579,T cell,treated,3409,10244,7.43,10
+cell_580,B cell,control,2316,9255,8.46,0
+cell_581,B cell,control,2144,6192,1.73,0
+cell_582,T cell,control,2304,10917,2.37,3
+cell_583,T cell,treated,2805,5938,6.07,7
+cell_584,NK cell,treated,2436,11897,6.42,1
+cell_585,Monocyte,control,2262,16143,1.38,0
+cell_586,T cell,control,3380,9916,5.75,6
+cell_587,T cell,control,2431,10457,4.83,8
+cell_588,T cell,control,3879,7767,9.75,9
+cell_589,T cell,treated,2554,4474,6.44,8
+cell_590,NK cell,treated,3571,7493,14.45,0
+cell_591,B cell,treated,2714,6267,3.8,0
+cell_592,T cell,control,3077,5382,1.85,5
+cell_593,B cell,control,2065,13305,14.2,1
+cell_594,T cell,control,1987,9682,6.69,8
+cell_595,T cell,control,2775,9949,4.85,6
+cell_596,Monocyte,treated,3093,8227,2.45,1
+cell_597,Monocyte,control,2524,8567,3.84,4
+cell_598,NK cell,control,1728,11411,3.68,0
+cell_599,Monocyte,treated,1683,8919,1.77,1

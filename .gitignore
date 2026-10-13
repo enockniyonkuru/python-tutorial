@@ -1,0 +1,19 @@
+# Local-only archive of earlier versions (never pushed)
+archive/
+
+# macOS / editor
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
+
+# Python environments and caches
+myenv/
+.venv/
+venv/
+__pycache__/
+
+# Files the notebooks create when you run them (Part 2)
+cells.csv
+cells.xlsx
+cells.parquet
+qc_panel.png
